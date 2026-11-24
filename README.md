@@ -33,7 +33,7 @@ The page walks visitors from the first impression to the official **Order Online
 - **Cinematic first impression**: real cut-outs of the deli's own sandwiches on a scaled poster stage, no video
 - **Clear path to ordering**: every *Order Online* goes to the deli's live ordering page; a separate menu page lists the 57 dishes with search
 - **Built for every visitor**: complete without JavaScript, still with reduced motion, a pause-motion toggle in the footer, full keyboard support
-- **Light**: 0.60 MB on a phone's first load, measured in the browser
+- **Light**: 0.55 MB on a phone's first load, measured on the live site
 
 <br />
 
