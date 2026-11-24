@@ -1,0 +1,4 @@
+# Only the static site is deployed; the kit, sources, scripts and QA captures stay in the repo
+/*
+!/site
+!/vercel.json
