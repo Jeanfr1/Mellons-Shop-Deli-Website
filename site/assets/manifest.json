@@ -1,0 +1,699 @@
+{
+ "photos": {
+  "classic-club": {
+   "src": "images/official/classic-club.jpg",
+   "ratio": [
+    1530,
+    2040
+   ],
+   "files": [
+    {
+     "w": 480,
+     "h": 640,
+     "file": "assets/img/classic-club-480.webp",
+     "bytes": 42942
+    },
+    {
+     "w": 820,
+     "h": 1093,
+     "file": "assets/img/classic-club-820.webp",
+     "bytes": 88806
+    },
+    {
+     "w": 1200,
+     "h": 1600,
+     "file": "assets/img/classic-club-1200.webp",
+     "bytes": 143524
+    }
+   ]
+  },
+  "italian-job": {
+   "src": "images/official/italian-job.jpg",
+   "ratio": [
+    1530,
+    2040
+   ],
+   "files": [
+    {
+     "w": 480,
+     "h": 640,
+     "file": "assets/img/italian-job-480.webp",
+     "bytes": 50540
+    },
+    {
+     "w": 820,
+     "h": 1093,
+     "file": "assets/img/italian-job-820.webp",
+     "bytes": 114814
+    }
+   ]
+  },
+  "greek-salad": {
+   "src": "images/official/greek-salad.jpg",
+   "ratio": [
+    1530,
+    2040
+   ],
+   "files": [
+    {
+     "w": 480,
+     "h": 640,
+     "file": "assets/img/greek-salad-480.webp",
+     "bytes": 52248
+    },
+    {
+     "w": 820,
+     "h": 1093,
+     "file": "assets/img/greek-salad-820.webp",
+     "bytes": 112088
+    }
+   ]
+  },
+  "granola": {
+   "src": "images/official/granola.jpg",
+   "ratio": [
+    1530,
+    2040
+   ],
+   "files": [
+    {
+     "w": 480,
+     "h": 640,
+     "file": "assets/img/granola-480.webp",
+     "bytes": 64028
+    },
+    {
+     "w": 820,
+     "h": 1093,
+     "file": "assets/img/granola-820.webp",
+     "bytes": 129226
+    }
+   ]
+  },
+  "caesar-salad": {
+   "src": "images/official/caesar-salad.jpg",
+   "ratio": [
+    2040,
+    1530
+   ],
+   "files": [
+    {
+     "w": 640,
+     "h": 480,
+     "file": "assets/img/caesar-salad-640.webp",
+     "bytes": 53196
+    },
+    {
+     "w": 1000,
+     "h": 750,
+     "file": "assets/img/caesar-salad-1000.webp",
+     "bytes": 96778
+    }
+   ]
+  },
+  "overnight-oats": {
+   "src": "images/official/overnight-oats.jpg",
+   "ratio": [
+    1536,
+    2048
+   ],
+   "files": [
+    {
+     "w": 480,
+     "h": 640,
+     "file": "assets/img/overnight-oats-480.webp",
+     "bytes": 45176
+    },
+    {
+     "w": 820,
+     "h": 1093,
+     "file": "assets/img/overnight-oats-820.webp",
+     "bytes": 93144
+    }
+   ]
+  },
+  "sweet-platter": {
+   "src": "images/official/sweet-platter.jpg",
+   "ratio": [
+    2040,
+    1530
+   ],
+   "files": [
+    {
+     "w": 640,
+     "h": 480,
+     "file": "assets/img/sweet-platter-640.webp",
+     "bytes": 64824
+    },
+    {
+     "w": 1000,
+     "h": 750,
+     "file": "assets/img/sweet-platter-1000.webp",
+     "bytes": 116460
+    }
+   ]
+  },
+  "meal-deal": {
+   "src": "images/official/meal-deal.jpg",
+   "ratio": [
+    1200,
+    1600
+   ],
+   "files": [
+    {
+     "w": 560,
+     "h": 747,
+     "file": "assets/img/meal-deal-560.webp",
+     "bytes": 82658
+    },
+    {
+     "w": 900,
+     "h": 1200,
+     "file": "assets/img/meal-deal-900.webp",
+     "bytes": 171088
+    },
+    {
+     "w": 1200,
+     "h": 1600,
+     "file": "assets/img/meal-deal-1200.webp",
+     "bytes": 246908
+    }
+   ]
+  },
+  "sandwich-platter": {
+   "src": "images/official/sandwich-platter.jpg",
+   "ratio": [
+    2040,
+    1530
+   ],
+   "files": [
+    {
+     "w": 720,
+     "h": 540,
+     "file": "assets/img/sandwich-platter-720.webp",
+     "bytes": 80772
+    },
+    {
+     "w": 1100,
+     "h": 825,
+     "file": "assets/img/sandwich-platter-1100.webp",
+     "bytes": 156348
+    },
+    {
+     "w": 1600,
+     "h": 1200,
+     "file": "assets/img/sandwich-platter-1600.webp",
+     "bytes": 211282
+    }
+   ]
+  },
+  "pastry-scones": {
+   "src": "images/official/pastry-scones.jpg",
+   "ratio": [
+    2040,
+    1530
+   ],
+   "files": [
+    {
+     "w": 720,
+     "h": 540,
+     "file": "assets/img/pastry-scones-720.webp",
+     "bytes": 83928
+    },
+    {
+     "w": 1100,
+     "h": 825,
+     "file": "assets/img/pastry-scones-1100.webp",
+     "bytes": 152832
+    },
+    {
+     "w": 1600,
+     "h": 1200,
+     "file": "assets/img/pastry-scones-1600.webp",
+     "bytes": 198326
+    }
+   ]
+  },
+  "story-1": {
+   "src": "images/official/story-1.jpg",
+   "ratio": [
+    1080,
+    1080
+   ],
+   "files": [
+    {
+     "w": 640,
+     "h": 640,
+     "file": "assets/img/story-1-640.webp",
+     "bytes": 69216
+    },
+    {
+     "w": 1080,
+     "h": 1080,
+     "file": "assets/img/story-1-1080.webp",
+     "bytes": 147618
+    }
+   ]
+  },
+  "story-2": {
+   "src": "images/official/story-2.jpg",
+   "ratio": [
+    1440,
+    1440
+   ],
+   "files": [
+    {
+     "w": 640,
+     "h": 640,
+     "file": "assets/img/story-2-640.webp",
+     "bytes": 83286
+    },
+    {
+     "w": 1000,
+     "h": 1000,
+     "file": "assets/img/story-2-1000.webp",
+     "bytes": 168702
+    },
+    {
+     "w": 1440,
+     "h": 1440,
+     "file": "assets/img/story-2-1440.webp",
+     "bytes": 259022
+    }
+   ]
+  },
+  "mellons-print": {
+   "src": "images/official/mellons-print.jpg",
+   "ratio": [
+    2482,
+    3507
+   ],
+   "files": [
+    {
+     "w": 520,
+     "h": 735,
+     "file": "assets/img/mellons-print-520.webp",
+     "bytes": 26680
+    },
+    {
+     "w": 900,
+     "h": 1272,
+     "file": "assets/img/mellons-print-900.webp",
+     "bytes": 54930
+    }
+   ]
+  },
+  "gift-card": {
+   "src": "images/official/gift-card.jpg",
+   "ratio": [
+    1536,
+    2048
+   ],
+   "files": [
+    {
+     "w": 520,
+     "h": 693,
+     "file": "assets/img/gift-card-520.webp",
+     "bytes": 78096
+    },
+    {
+     "w": 900,
+     "h": 1200,
+     "file": "assets/img/gift-card-900.webp",
+     "bytes": 191738
+    }
+   ]
+  },
+  "shopfront": {
+   "src": "images/official/shopfront.jpg",
+   "ratio": [
+    4344,
+    5792
+   ],
+   "files": [
+    {
+     "w": 640,
+     "h": 853,
+     "file": "assets/img/shopfront-640.webp",
+     "bytes": 161522
+    },
+    {
+     "w": 1000,
+     "h": 1333,
+     "file": "assets/img/shopfront-1000.webp",
+     "bytes": 386908
+    },
+    {
+     "w": 1500,
+     "h": 2000,
+     "file": "assets/img/shopfront-1500.webp",
+     "bytes": 695036
+    }
+   ]
+  },
+  "salad-counter": {
+   "src": "images/official/salad-counter.webp",
+   "ratio": [
+    1080,
+    1080
+   ],
+   "files": [
+    {
+     "w": 640,
+     "h": 640,
+     "file": "assets/img/salad-counter-640.webp",
+     "bytes": 101842
+    },
+    {
+     "w": 1080,
+     "h": 1080,
+     "file": "assets/img/salad-counter-1080.webp",
+     "bytes": 221470
+    }
+   ]
+  },
+  "counter-trays": {
+   "src": "images/provided/counter-trays.webp",
+   "ratio": [
+    1184,
+    900
+   ],
+   "files": [
+    {
+     "w": 640,
+     "h": 486,
+     "file": "assets/img/counter-trays-640.webp",
+     "bytes": 80804
+    },
+    {
+     "w": 1000,
+     "h": 760,
+     "file": "assets/img/counter-trays-1000.webp",
+     "bytes": 158490
+    }
+   ]
+  },
+  "deli-spread": {
+   "src": "images/provided/deli-spread.webp",
+   "ratio": [
+    1188,
+    908
+   ],
+   "files": [
+    {
+     "w": 640,
+     "h": 489,
+     "file": "assets/img/deli-spread-640.webp",
+     "bytes": 59682
+    },
+    {
+     "w": 1000,
+     "h": 764,
+     "file": "assets/img/deli-spread-1000.webp",
+     "bytes": 115810
+    }
+   ]
+  },
+  "sauces": {
+   "src": "images/provided/sauces.webp",
+   "ratio": [
+    1028,
+    818
+   ],
+   "files": [
+    {
+     "w": 640,
+     "h": 509,
+     "file": "assets/img/sauces-640.webp",
+     "bytes": 33842
+    },
+    {
+     "w": 900,
+     "h": 716,
+     "file": "assets/img/sauces-900.webp",
+     "bytes": 52380
+    }
+   ]
+  },
+  "fruit-pot": {
+   "src": "images/provided/fruit-pot.webp",
+   "ratio": [
+    758,
+    906
+   ],
+   "files": [
+    {
+     "w": 560,
+     "h": 669,
+     "file": "assets/img/fruit-pot-560.webp",
+     "bytes": 55840
+    }
+   ]
+  },
+  "held-wrap-photo": {
+   "src": "images/provided/held-wrap.webp",
+   "ratio": [
+    772,
+    896
+   ],
+   "files": [
+    {
+     "w": 560,
+     "h": 650,
+     "file": "assets/img/held-wrap-photo-560.webp",
+     "bytes": 41478
+    }
+   ]
+  },
+  "shopfront-detail": {
+   "src": "images/provided/shopfront-detail.webp",
+   "ratio": [
+    760,
+    788
+   ],
+   "files": [
+    {
+     "w": 560,
+     "h": 581,
+     "file": "assets/img/shopfront-detail-560.webp",
+     "bytes": 67542
+    }
+   ]
+  },
+  "shopfront-wide": {
+   "src": "images/provided/shopfront-wide.webp",
+   "ratio": [
+    758,
+    900
+   ],
+   "files": [
+    {
+     "w": 560,
+     "h": 665,
+     "file": "assets/img/shopfront-wide-560.webp",
+     "bytes": 98910
+    }
+   ]
+  }
+ },
+ "cutouts": {
+  "classic-club": {
+   "src": "images/official/classic-club.jpg",
+   "photo": [
+    1530,
+    2040
+   ],
+   "box": [
+    1,
+    687,
+    1529,
+    2006
+   ],
+   "boxf": [
+    0.00065,
+    0.33676,
+    0.99935,
+    0.98333
+   ],
+   "files": [
+    {
+     "w": 560,
+     "h": 483,
+     "file": "assets/cut/classic-club-560.webp",
+     "bytes": 67088
+    },
+    {
+     "w": 900,
+     "h": 777,
+     "file": "assets/cut/classic-club-900.webp",
+     "bytes": 127246
+    },
+    {
+     "w": 1300,
+     "h": 1122,
+     "file": "assets/cut/classic-club-1300.webp",
+     "bytes": 204622
+    }
+   ]
+  },
+  "italian-job": {
+   "src": "images/official/italian-job.jpg",
+   "photo": [
+    1530,
+    2040
+   ],
+   "box": [
+    16,
+    104,
+    1495,
+    1752
+   ],
+   "boxf": [
+    0.01046,
+    0.05098,
+    0.97712,
+    0.85882
+   ],
+   "files": [
+    {
+     "w": 520,
+     "h": 579,
+     "file": "assets/cut/italian-job-520.webp",
+     "bytes": 72066
+    },
+    {
+     "w": 860,
+     "h": 958,
+     "file": "assets/cut/italian-job-860.webp",
+     "bytes": 142808
+    }
+   ]
+  },
+  "held-wrap": {
+   "src": "images/provided/held-wrap.webp",
+   "photo": [
+    772,
+    1008
+   ],
+   "box": [
+    56,
+    253,
+    531,
+    841
+   ],
+   "boxf": [
+    0.07254,
+    0.25099,
+    0.68782,
+    0.83433
+   ],
+   "files": [
+    {
+     "w": 420,
+     "h": 520,
+     "file": "assets/cut/held-wrap-420.webp",
+     "bytes": 56270
+    }
+   ]
+  },
+  "greek-salad": {
+   "src": "images/official/greek-salad.jpg",
+   "photo": [
+    1530,
+    2040
+   ],
+   "box": [
+    0,
+    288,
+    1530,
+    1933
+   ],
+   "boxf": [
+    0.0,
+    0.14118,
+    1.0,
+    0.94755
+   ],
+   "files": [
+    {
+     "w": 420,
+     "h": 452,
+     "file": "assets/cut/greek-salad-420.webp",
+     "bytes": 54926
+    },
+    {
+     "w": 700,
+     "h": 753,
+     "file": "assets/cut/greek-salad-700.webp",
+     "bytes": 114854
+    }
+   ]
+  },
+  "granola": {
+   "src": "images/official/granola.jpg",
+   "photo": [
+    1530,
+    2040
+   ],
+   "box": [
+    86,
+    373,
+    1443,
+    1718
+   ],
+   "boxf": [
+    0.05621,
+    0.18284,
+    0.94314,
+    0.84216
+   ],
+   "files": [
+    {
+     "w": 420,
+     "h": 416,
+     "file": "assets/cut/granola-420.webp",
+     "bytes": 59626
+    },
+    {
+     "w": 700,
+     "h": 694,
+     "file": "assets/cut/granola-700.webp",
+     "bytes": 121960
+    }
+   ]
+  },
+  "caesar-salad": {
+   "src": "images/official/caesar-salad.jpg",
+   "photo": [
+    2040,
+    1530
+   ],
+   "box": [
+    348,
+    24,
+    1705,
+    1374
+   ],
+   "boxf": [
+    0.17059,
+    0.01569,
+    0.83578,
+    0.89804
+   ],
+   "files": [
+    {
+     "w": 420,
+     "h": 418,
+     "file": "assets/cut/caesar-salad-420.webp",
+     "bytes": 51894
+    },
+    {
+     "w": 700,
+     "h": 696,
+     "file": "assets/cut/caesar-salad-700.webp",
+     "bytes": 103574
+    }
+   ]
+  }
+ }
+}

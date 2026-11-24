@@ -1,0 +1,62 @@
+{
+  "method": "Static verification using CSS declarations and font metrics at default root size (16 px); no browser measurement or result is claimed.",
+  "widths": [
+    {
+      "viewport_px": 375,
+      "canvas_px": 375,
+      "outer_margin_per_side_px": 0.0,
+      "inner_gutter_px": 19.2,
+      "hero_title_px": 50.4,
+      "hero_subject_px": 336.6,
+      "max_headline_line_with_indent_px_before_rotation": 167.7,
+      "composition": "stacked"
+    },
+    {
+      "viewport_px": 768,
+      "canvas_px": 768,
+      "outer_margin_per_side_px": 0.0,
+      "inner_gutter_px": 28.0,
+      "hero_title_px": 72.8,
+      "hero_subject_px": 436.0,
+      "max_headline_line_with_indent_px_before_rotation": 266.2,
+      "composition": "side by side"
+    },
+    {
+      "viewport_px": 1024,
+      "canvas_px": 1024,
+      "outer_margin_per_side_px": 0.0,
+      "inner_gutter_px": 40.0,
+      "hero_title_px": 92.0,
+      "hero_subject_px": 550.0,
+      "max_headline_line_with_indent_px_before_rotation": 319.6,
+      "composition": "side by side"
+    },
+    {
+      "viewport_px": 1440,
+      "canvas_px": 1024.0,
+      "outer_margin_per_side_px": 208.0,
+      "inner_gutter_px": 40.0,
+      "hero_title_px": 92.0,
+      "hero_subject_px": 550.0,
+      "max_headline_line_with_indent_px_before_rotation": 319.6,
+      "composition": "side by side"
+    },
+    {
+      "viewport_px": 1920,
+      "canvas_px": 1024.0,
+      "outer_margin_per_side_px": 448.0,
+      "inner_gutter_px": 40.0,
+      "hero_title_px": 92.0,
+      "hero_subject_px": 550.0,
+      "max_headline_line_with_indent_px_before_rotation": 319.6,
+      "composition": "side by side"
+    }
+  ],
+  "local_images_checked": 29,
+  "local_and_external_references_checked": 108,
+  "order_online_ctas_checked": 8,
+  "menu_items_checked": 57,
+  "menu_categories_checked": 8,
+  "optimized_photos_decoded": 18,
+  "live_preview": "Unavailable: preview relay unavailable, OS error 2."
+}

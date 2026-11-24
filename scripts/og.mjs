@@ -1,0 +1,15 @@
+import { chromium } from 'playwright-core';
+import http from 'node:http'; import fs from 'node:fs'; import path from 'node:path';
+import { execSync } from 'node:child_process';
+const root = path.resolve('site');
+const types = { '.html': 'text/html', '.css': 'text/css', '.js': 'text/javascript', '.webp': 'image/webp', '.png': 'image/png', '.woff2': 'font/woff2' };
+const srv = http.createServer((q, r) => { let p = path.join(root, decodeURIComponent(q.url.split('?')[0])); if (p.endsWith('/')) p += 'index.html'; fs.readFile(p, (e, b) => { if (e) { r.writeHead(404); r.end(); } else { r.writeHead(200, { 'content-type': types[path.extname(p)] || 'application/octet-stream' }); r.end(b); } }); }).listen(0);
+const base = `http://localhost:${srv.address().port}/`;
+const exe = execSync(`find ~/Library/Caches/ms-playwright -type f -name "Google Chrome for Testing" | head -1`).toString().trim();
+const b = await chromium.launch({ executablePath: exe });
+const pg = await b.newPage({ viewport: { width: 1200, height: 630 }, deviceScaleFactor: 1 });
+await pg.goto(base, { waitUntil: 'load' }); await pg.waitForTimeout(3200);
+await pg.mouse.move(600, 340); await pg.addStyleTag({ content: '.hero-foot .actions{visibility:hidden}' });
+await pg.waitForTimeout(800);
+await pg.screenshot({ path: 'site/assets/og.jpg', type: 'jpeg', quality: 84 });
+await b.close(); srv.close();

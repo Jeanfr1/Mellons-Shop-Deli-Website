@@ -1,0 +1,22 @@
+{
+  "language": "en-IE",
+  "strategy": "CSS keyframes, native SVG masks and one-shot intersection triggers. Content and order links retain their layout with motion off.",
+  "hero": {
+    "trigger": "initial load",
+    "headline": {"duration_ms": 620, "delays_ms": [45, 125, 210, 300], "order": ["Big", "Bites.", "Local", "Roots."]},
+    "food": {"duration_ms": 920, "start_ms": {"held_wrap": 100, "classic_club": 220, "italian_job": 245}},
+    "hand_drawn_marks": {"start_ms": 1010, "duration_ms": 260},
+    "easing": "cubic-bezier(.16,.78,.27,1)"
+  },
+  "transitions": [
+    {"from": "hero", "to": "menu", "effect": "Tomato to prepared sandwich across the red–paper seam", "duration_ms": 840, "cut_overlap_percent": [44, 49]},
+    {"to": "menu", "effect": "Greaseproof paper unfolds", "duration_ms": 620},
+    {"to": "grab-and-go", "effect": "Paper edge wipe around the real pack shot", "duration_ms": 620},
+    {"to": "catering", "effect": "Staggered sliding trays", "duration_ms": [650, 585], "second_delay_ms": 80},
+    {"to": "shop", "effect": "Shop windows revealed as a single opening", "duration_ms": 595},
+    {"to": "our-story", "effect": "Storefront framed into the red address panel", "duration_ms": 730}
+  ],
+  "observation": {"intersection_ratio": 0.22, "once_per_document": true},
+  "accessibility": {"system": "prefers-reduced-motion", "control": "Pause motion", "static_content_without_js": true},
+  "veo_3": {"used": false, "optional_brief": "roteiros/02-HERO-E-ANIMACAO.md"}
+}

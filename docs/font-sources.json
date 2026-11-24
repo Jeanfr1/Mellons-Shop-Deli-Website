@@ -1,0 +1,18 @@
+[
+  {
+    "file": "fonts/LilitaOne-Regular.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/lilitaone/LilitaOne-Regular.ttf"
+  },
+  {
+    "file": "fonts/LilitaOne-OFL.txt",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/lilitaone/OFL.txt"
+  },
+  {
+    "file": "fonts/PublicSans-Variable.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/publicsans/PublicSans%5Bwght%5D.ttf"
+  },
+  {
+    "file": "fonts/PublicSans-OFL.txt",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/publicsans/OFL.txt"
+  }
+]

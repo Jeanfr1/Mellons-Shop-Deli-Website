@@ -1,0 +1,5 @@
+node_modules/
+qa-out/
+.DS_Store
+.playwright-mcp/
+.vercel

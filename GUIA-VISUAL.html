@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Deli Drop — Guia visual</title>
+  <style>
+    @font-face{font-family:Lilita;src:url("dist/assets/fonts/LilitaOne-Regular.woff") format("woff");font-display:swap}
+    @font-face{font-family:Public;src:url("dist/assets/fonts/PublicSans-Variable.woff") format("woff");font-weight:100 900;font-display:swap}
+    :root{--red:#b30d1b;--deep:#890b17;--paper:#fbf7f1;--ink:#251916;--line:#d9c6b9}
+    *{box-sizing:border-box}body{margin:0;color:var(--ink);background:var(--paper);font:1rem/1.55 Public,system-ui,sans-serif}
+    h1,h2,h3,p,figure{margin:0}h1,h2{font-family:Lilita,Impact,sans-serif;font-weight:400;line-height:.96}
+    a{color:inherit;text-underline-offset:.2em}:focus-visible{outline:3px solid currentColor;outline-offset:3px}
+    img{display:block;max-width:100%;height:auto}.page{width:min(100%,64rem);padding-inline:1.8rem;margin:auto}
+    .mast{background:#fff}.mast .page{min-height:5rem;display:flex;align-items:center;justify-content:space-between;gap:1rem;padding-block:.7rem}
+    .mast img{width:4.25rem}.label{letter-spacing:.11em;text-transform:uppercase;font-size:.79rem;font-weight:830}
+    .opening{background:var(--red);color:#fff}.opening .page{padding-block:2.1rem 2.55rem}
+    h1{font-size:clamp(3.1rem,8.8vw,6rem);text-transform:uppercase;margin-block:.65rem .7rem}
+    .opening p:not(.label){max-width:38rem}.links{display:flex;align-items:center;flex-wrap:wrap;gap:.8rem;margin-top:1.2rem}
+    .pill{border:1px solid currentColor;min-height:2.75rem;padding:.55rem 1rem;border-radius:40px;font-weight:800;text-decoration:none;display:inline-flex;align-items:center}
+    .pill-primary{background:white;color:var(--deep);border-color:white}.pill:hover{box-shadow:inset 0 0 0 2px currentColor}
+    .grid{display:grid;grid-template-columns:minmax(0,.88fr) minmax(0,1.12fr);gap:1.7rem;padding-block:2rem}
+    .board img{width:100%;border:1px solid var(--line)}figcaption{font-size:.875rem;margin-top:.5rem}.details{min-width:0}
+    h2{color:var(--red);font-size:2.15rem;margin-bottom:.68rem}h3{font-size:1rem;font-weight:840}.row{margin-bottom:1.45rem}
+    .row+.row{border-top:1px solid var(--line);padding-top:1.3rem}.scene-list{padding:0;margin:0;list-style:none;counter-reset:scene}
+    .scene-list li{padding:.68rem 0 .75rem 2.35rem;position:relative;counter-increment:scene;border-bottom:1px solid var(--line)}
+    .scene-list li::before{content:counter(scene,decimal-leading-zero);position:absolute;left:0;top:.61rem;color:var(--red);font-family:Lilita,sans-serif;font-size:1.25rem}
+    .swatches{list-style:none;display:grid;grid-template-columns:1fr 1fr;padding:0;gap:.45rem;margin:.8rem 0 1rem}
+    .swatches li{padding:.55rem .65rem;min-width:0;border:1px solid var(--line);border-radius:.25rem;line-height:1.25}
+    .swatches li strong{display:block}.sample{display:flex;align-items:center;gap:.75rem;padding:.5rem;background:#fff;border:1px solid var(--line)}
+    .sample img{width:4.3rem;flex:0 0 auto}.sample p span{font-family:Lilita,Impact,sans-serif;color:var(--red);font-size:1.28rem}
+    .food{display:grid;grid-template-columns:1fr 1fr;gap:.65rem;margin-top:.8rem}.food img{width:100%;aspect-ratio:1;object-fit:cover}
+    .fine{margin-top:.5rem}.bottom{border-top:1px solid var(--line);background:#fff}.bottom .page{padding-block:1.2rem;display:flex;flex-wrap:wrap;gap:.8rem 1.3rem}
+    @media(max-width:42rem){.page{padding-inline:1.12rem}.grid{grid-template-columns:1fr}.board{order:2}.board img{max-width:27rem}}
+  </style>
+</head>
+<body>
+  <header class="mast">
+    <div class="page">
+      <img src="brand/Mellons-Logo-Fundo-Branco.png" width="675" height="649" alt="Logo oficial Mellon’s Shop">
+      <p class="label">Modelo 01 · Aprovação de direção</p>
+    </div>
+  </header>
+  <main>
+    <section class="opening" aria-labelledby="guide-title">
+      <div class="page">
+        <p class="label">Mellon’s Shop &amp; Deli · Ringsend, Dublin</p>
+        <h1 id="guide-title">The Deli Drop</h1>
+        <p>Um cartaz de balcão em movimento, do Classic Club no hero à fachada da esquina. Use este guia para conferir a direção aprovada e abrir o site entregue.</p>
+        <nav class="links" aria-label="Abrir o projeto">
+          <a class="pill pill-primary" href="dist/index.html">Abrir o site</a>
+          <a class="pill" href="dist/menu.html">Abrir o cardápio</a>
+        </nav>
+      </div>
+    </section>
+    <div class="page grid">
+      <figure class="board">
+        <a href="references/Modelo1-The-Deli-Drop-Aprovado.png"><img src="references/Modelo1-The-Deli-Drop-Aprovado.png" width="819" height="1920" alt="Board aprovado The Deli Drop: cartaz vermelho, balcão, marmita, catering, loja e fachada"></a>
+        <figcaption>Prancha de direção aprovada. No site, cada cena foi reconstruída com texto navegável e fotos reais.</figcaption>
+      </figure>
+      <div class="details">
+        <section class="row" aria-labelledby="cenas">
+          <h2 id="cenas">Seis cenas</h2>
+          <ol class="scene-list">
+            <li><h3>Big Bites. Local Roots.</h3><p>Headline em escada. Três recortes entram em ritmos diferentes.</p></li>
+            <li><h3>From the Deli Counter</h3><p>Tomate cru cruza a emenda e vira sanduíche. O papel abre para a bancada.</p></li>
+            <li><h3>Grab &amp; Go.</h3><p>O embrulho abre para o combo fotografado pela loja.</p></li>
+            <li><h3>Made for Sharing.</h3><p>Duas bandejas chegam ao painel em papel, uma de cada lado.</p></li>
+            <li><h3>A Piece of Mellon’s.</h3><p>Duas janelas de loja mostram a estampa e o voucher.</p></li>
+            <li><h3>Ringsend Since 1905.</h3><p>A fachada real encontra o bloco de endereço, horário e contato.</p></li>
+          </ol>
+        </section>
+        <section class="row" aria-labelledby="marca">
+          <h2 id="marca">Marca e escala</h2>
+          <div class="sample"><img src="brand/Mellons-Logo-Fundo-Branco.png" width="675" height="649" alt=""><p><span>Lilita One</span> para as manchetes; Public Sans para menu, links e texto.</p></div>
+          <ul class="swatches">
+            <li style="background:#f31820;color:#251916"><strong>Vermelho da marca</strong>#F31820</li>
+            <li style="background:#b30d1b;color:#fff"><strong>Vermelho do site</strong>#B30D1B</li>
+            <li style="background:#fbf7f1"><strong>Papel</strong>#FBF7F1</li>
+            <li style="background:#251916;color:#fff"><strong>Tinta</strong>#251916</li>
+          </ul>
+          <p>A composição central para em <strong>1024 px</strong>; o hero mantém título de 92 px e foto principal de 550 px acima da base. No celular as camadas se reorganizam.</p>
+        </section>
+        <section class="row" aria-labelledby="fotos">
+          <h2 id="fotos">Do menu real</h2>
+          <p>Originais da empresa, com cópias otimizadas no site. As máscaras do hero só alteram o recorte.</p>
+          <div class="food">
+            <figure><img src="dist/assets/images/classic-club.webp" width="1160" height="1547" loading="lazy" alt="Classic Club original"><figcaption>Classic Club</figcaption></figure>
+            <figure><img src="dist/assets/images/italian-job.webp" width="980" height="1307" loading="lazy" alt="Italian Job original"><figcaption>Italian Job</figcaption></figure>
+            <figure><img src="dist/assets/images/greek-salad.webp" width="930" height="1240" loading="lazy" alt="Greek Salad original"><figcaption>Greek Salad</figcaption></figure>
+            <figure><img src="dist/assets/images/granola.webp" width="900" height="1200" loading="lazy" alt="Granola Protein Pot original"><figcaption>Granola Protein Pot</figcaption></figure>
+          </div>
+        </section>
+      </div>
+    </div>
+  </main>
+  <footer class="bottom"><div class="page">
+    <a href="README.md">Como abrir e atualizar</a>
+    <a href="roteiros/02-HERO-E-ANIMACAO.md">Roteiro de movimento</a>
+    <a href="https://www.mellonsshop.ie/online-ordering">Pedido oficial</a>
+  </div></footer>
+</body>
+</html>

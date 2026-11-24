@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="en-IE">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>The Deli Menu · Mellon’s Shop &amp; Deli · Ringsend, Dublin 4</title>
+  <meta name="description" content="Breakfast, lunch, all-day favourites, crisps, drinks and catering platters from Mellon’s Shop &amp; Deli in Ringsend. Order for collection on our official ordering page.">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="theme-color" content="#b30d1b">
+  <meta property="og:title" content="The Deli Menu · Mellon’s Shop &amp; Deli">
+  <link rel="canonical" href="https://mellons-shop-deli-ringsend.vercel.app/menu">
+  <meta property="og:url" content="https://mellons-shop-deli-ringsend.vercel.app/menu">
+  <meta property="og:image" content="https://mellons-shop-deli-ringsend.vercel.app/assets/og.jpg">
+  <link rel="icon" href="assets/brand/favicon.png" type="image/png">
+  <link rel="apple-touch-icon" href="assets/brand/apple-touch-icon.png">
+  <link rel="preload" href="assets/fonts/LilitaOne.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="styles.css">
+  <script src="menu.js" defer></script>
+</head>
+<body class="menu-page">
+  <svg class="sprite" aria-hidden="true" focusable="false">
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h13m-5-5 5 5-5 5"/></symbol>
+    <symbol id="i-pin" viewBox="0 0 24 24"><path d="M12 21s-6.5-6.1-6.5-11a6.5 6.5 0 0 1 13 0c0 4.9-6.5 11-6.5 11Z"/><circle cx="12" cy="10" r="2.4"/></symbol>
+    <symbol id="i-phone" viewBox="0 0 24 24"><path d="M6.6 3.5h2.6l1.4 4.2-2 1.4a11 11 0 0 0 6.3 6.3l1.4-2 4.2 1.4v2.6a2 2 0 0 1-2.2 2A16.7 16.7 0 0 1 4.6 5.7a2 2 0 0 1 2-2.2Z"/></symbol>
+    <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></symbol>
+    <symbol id="i-mail" viewBox="0 0 24 24"><rect x="3.5" y="5.5" width="17" height="13" rx="2"/><path d="m4.5 7 7.5 6 7.5-6"/></symbol>
+    <symbol id="i-form" viewBox="0 0 24 24"><path d="M5 4.5h14v15H5zM8.5 9h7M8.5 12.5h7M8.5 16h4"/></symbol>
+    <symbol id="i-instagram" viewBox="0 0 24 24"><rect x="3.5" y="3.5" width="17" height="17" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.2" cy="6.8" r=".6"/></symbol>
+    <symbol id="i-facebook" viewBox="0 0 24 24"><path d="M14 8.5h2.5V5H14a3.5 3.5 0 0 0-3.5 3.5V11H8v3.5h2.5V21H14v-6.5h2.5l.5-3.5h-3V9a.5.5 0 0 1 .5-.5Z"/></symbol>
+    <symbol id="i-apple" viewBox="0 0 24 24"><path d="M16.2 12.6c0-2.3 1.9-3.4 2-3.5a4.3 4.3 0 0 0-3.4-1.8c-1.4-.2-2.8.9-3.5.9s-1.8-.8-3-.8a4.5 4.5 0 0 0-3.8 2.3c-1.6 2.8-.4 7 1.2 9.3.8 1.1 1.7 2.4 2.9 2.3s1.6-.7 3-.7 1.8.7 3 .7 2-1.1 2.8-2.3a9.6 9.6 0 0 0 1.3-2.6 3.9 3.9 0 0 1-2.5-3.8ZM14 5.8a3.9 3.9 0 0 0 .9-2.8 4 4 0 0 0-2.6 1.3 3.7 3.7 0 0 0-.9 2.7 3.3 3.3 0 0 0 2.6-1.2Z"/></symbol>
+    <symbol id="i-play" viewBox="0 0 24 24"><path d="M5.5 3.8v16.4a.8.8 0 0 0 1.2.7l14-8.2a.8.8 0 0 0 0-1.4l-14-8.2a.8.8 0 0 0-1.2.7Z"/></symbol>
+    <symbol id="i-pdf" viewBox="0 0 24 24"><path d="M6 3.5h8.5L19 8v12.5H6zM14 3.5V8h5M9 13h6M9 16.5h6"/></symbol>
+    <symbol id="i-bag" viewBox="0 0 24 24"><path d="M5.5 8.5h13l-1 12h-11zM9 8.5V7a3 3 0 0 1 6 0v1.5"/></symbol>
+  </svg>
+  <a class="skip" href="#menu-list">Skip to the menu</a>
+  <header class="site-header" id="top">
+    <div class="header-bar">
+      <a class="logo" href="index.html" aria-label="Mellon’s Shop &amp; Deli, home">
+        <img src="assets/brand/mellons-logo-320.png" srcset="assets/brand/mellons-logo-160.png 160w, assets/brand/mellons-logo-320.png 320w" sizes="(max-width: 760px) 72px, 132px" width="320" height="308" alt="Mellon’s Shop">
+      </a>
+      <nav class="nav" id="navigation" aria-label="Main">
+        <a href="menu.html" aria-current="page">Menu</a>
+        <a href="index.html#catering">Catering</a>
+        <a href="index.html#our-story">Our Story</a>
+        <a href="index.html#shop">Shop</a>
+        <a href="index.html#visit">Visit</a>
+      </nav>
+      <a class="button button-red header-order" href="https://www.mellonsshop.ie/online-ordering" target="_blank" rel="noopener">Order Online<svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="navigation"><span class="menu-toggle-label">Menu</span><span class="menu-toggle-icon" aria-hidden="true"></span></button>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="menu-hero" aria-labelledby="menu-title">
+      <div class="hero-grain" aria-hidden="true"></div>
+      <div class="frame menu-hero-frame">
+        <div class="menu-hero-copy">
+          <h1 id="menu-title"><span>The deli</span> <span>menu.</span></h1>
+          <p>From breakfast rolls and omelettes to salad bowls, freshly cut sandwiches and platters to share. Pick what you fancy, then order for collection.</p>
+          <div class="actions">
+            <a class="button button-paper" href="https://www.mellonsshop.ie/online-ordering" target="_blank" rel="noopener">Order Online<svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
+            <a class="button button-ghost" href="#breakfast-catering">Catering platters<svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
+          </div>
+        </div>
+        <div class="menu-hero-art" aria-hidden="true">
+          <img class="mh-italian" src="assets/cut/italian-job-520.webp" width="520" height="579" alt="">
+          <img class="mh-greek" src="assets/cut/greek-salad-420.webp" width="420" height="452" alt="">
+          <img class="mh-granola" src="assets/cut/granola-420.webp" width="420" height="416" alt="">
+        </div>
+      </div>
+      <svg class="torn torn-bottom" viewBox="0 0 1440 40" preserveAspectRatio="none" aria-hidden="true"><path d="M0 40V18L44 26 88 12 130 22 178 8 220 20 268 10 312 24 356 12 404 20 450 6 494 22 540 12 588 24 630 10 676 20 722 8 768 22 812 14 858 24 904 10 950 20 996 8 1040 22 1086 12 1130 24 1176 10 1220 20 1266 8 1310 22 1356 12 1400 22 1440 14V40Z"/></svg>
+    </section>
+
+    <section class="menu-body" id="menu-list" aria-label="Menu">
+      <div class="frame menu-layout">
+        <aside class="menu-rail">
+          <div class="menu-search" data-search hidden>
+            <label for="menu-search">Find a dish</label>
+            <div class="search-field"><input id="menu-search" type="search" placeholder="Try ‘club’ or ‘oats’" autocomplete="off"><button type="button" class="search-clear" aria-label="Clear the search" hidden>Clear</button></div>
+            <p class="search-status" role="status" aria-live="polite"></p>
+          </div>
+          <nav class="rail-links" aria-label="Menu categories">
+<a href="#grab-and-go">Grab &amp; Go Meal Deal</a>
+<a href="#breakfast">Breakfast</a>
+<a href="#all-day">All-day favourites</a>
+<a href="#lunch">Lunch</a>
+<a href="#crisps">Crisps</a>
+<a href="#drinks">Drinks</a>
+<a href="#breakfast-catering">Breakfast catering</a>
+<a href="#lunch-catering">Lunch catering</a>
+          </nav>
+        </aside>
+        <div class="menu-list">
+          <p class="price-note">57 dishes and drinks, with prices as listed on our ordering page on <time datetime="2026-11-24">24 November 2026</time>. For today’s prices, availability, options and allergens, check the <a href="https://www.mellonsshop.ie/online-ordering" target="_blank" rel="noopener">live ordering page</a>.</p>
+          <p class="no-results" hidden>Nothing matches that search. Try another word, or browse the <a href="https://www.mellonsshop.ie/online-ordering" target="_blank" rel="noopener">live menu</a>.</p>
+<section class="menu-group" id="grab-and-go" data-group aria-labelledby="grab-and-go-h">
+<h2 id="grab-and-go-h">Grab &amp; Go Meal Deal<span class="menu-count">1 item</span></h2><p class="menu-note">A freshly made House Sandwich, a can of Coca-Cola and a pack of Keogh’s crisps.</p>
+<ul class="dishes" role="list">
+<li class="dish has-thumb"><img class="dish-thumb" src="assets/img/meal-deal-560.webp" width="96" height="96" loading="lazy" alt="The Grab &amp; Go meal deal"><span class="dish-name">House Sandwich + Can of Coca-Cola + Keogh’s Crisps</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€12.00</span></li>
+</ul></section>
+<section class="menu-group" id="breakfast" data-group aria-labelledby="breakfast-h">
+<h2 id="breakfast-h">Breakfast<span class="menu-count">12 items</span></h2><p class="menu-note">Online breakfast orders close at 11.15am.</p>
+<ul class="dishes" role="list">
+<li class="dish"><span class="dish-name">Jumbo Breakfast Roll</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€9.00</span></li>
+<li class="dish"><span class="dish-name">Full Irish Breakfast Roll</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€7.00</span></li>
+<li class="dish"><span class="dish-name">B.L.T.A</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€9.00</span></li>
+<li class="dish"><span class="dish-name">B.L.T.</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€6.50</span></li>
+<li class="dish"><span class="dish-name">Sausage Roll</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€5.00</span></li>
+<li class="dish"><span class="dish-name">Bacon &amp; Eggs</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€7.00</span></li>
+<li class="dish"><span class="dish-name">Brunch Box</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€10.00</span></li>
+<li class="dish"><span class="dish-name">Havana Omelette</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€9.95</span></li>
+<li class="dish"><span class="dish-name">Burrito Omelette</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€9.95</span></li>
+<li class="dish"><span class="dish-name">Irish Omelette</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€9.95</span></li>
+<li class="dish"><span class="dish-name">Spanish Omelette</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€9.95</span></li>
+<li class="dish"><span class="dish-name">Sweet Omelette (No Flour Pancakes)</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€9.95</span></li>
+</ul></section>
+<section class="menu-group" id="all-day" data-group aria-labelledby="all-day-h">
+<h2 id="all-day-h">All-day favourites<span class="menu-count">2 items</span></h2>
+<ul class="dishes" role="list">
+<li class="dish has-thumb"><img class="dish-thumb" src="assets/img/granola-480.webp" width="96" height="96" loading="lazy" alt="Granola Protein Pot with strawberries"><span class="dish-name">Granola Protein Pot</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€3.95</span></li>
+<li class="dish has-thumb"><img class="dish-thumb" src="assets/img/overnight-oats-480.webp" width="96" height="96" loading="lazy" alt="Over-Night Protein Oats"><span class="dish-name">Over-Night Protein Oats</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€4.95</span></li>
+</ul></section>
+<section class="menu-group" id="lunch" data-group aria-labelledby="lunch-h">
+<h2 id="lunch-h">Lunch<span class="menu-count">20 items</span></h2><p class="menu-note">Allow at least 45 minutes for lunch orders. Orders of five or more sandwiches can take up to two hours.</p>
+<ul class="dishes" role="list">
+<li class="dish has-thumb"><img class="dish-thumb" src="assets/img/italian-job-480.webp" width="96" height="96" loading="lazy" alt="The Italian Job sandwich"><span class="dish-name">Italian Job</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€11.45</span></li>
+<li class="dish has-thumb"><img class="dish-thumb" src="assets/img/classic-club-480.webp" width="96" height="96" loading="lazy" alt="The Classic Club sandwich"><span class="dish-name">Classic Club</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€10.95</span></li>
+<li class="dish"><span class="dish-name">Spicy Club</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€10.95</span></li>
+<li class="dish"><span class="dish-name">Naked Club</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€8.95</span></li>
+<li class="dish"><span class="dish-name">Brazil</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€9.95</span></li>
+<li class="dish"><span class="dish-name">Mississippi</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€8.95</span></li>
+<li class="dish"><span class="dish-name">Spanish Armada</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€8.95</span></li>
+<li class="dish"><span class="dish-name">Lapland</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€8.95</span></li>
+<li class="dish"><span class="dish-name">Tuscany</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€8.95</span></li>
+<li class="dish"><span class="dish-name">New York</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€8.95</span></li>
+<li class="dish"><span class="dish-name">Enniskerry</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€8.95</span></li>
+<li class="dish"><span class="dish-name">Howth</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€8.95</span></li>
+<li class="dish"><span class="dish-name">Ploughman (Vegetarian Option)</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€7.95</span></li>
+<li class="dish"><span class="dish-name">Mediterranean (Vegetarian Option)</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€7.95</span></li>
+<li class="dish has-thumb"><img class="dish-thumb" src="assets/img/greek-salad-480.webp" width="96" height="96" loading="lazy" alt="Greek Salad bowl"><span class="dish-name">Greek Salad</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€9.95</span></li>
+<li class="dish has-thumb"><img class="dish-thumb" src="assets/img/caesar-salad-640.webp" width="96" height="96" loading="lazy" alt="Caesar Salad bowls"><span class="dish-name">Caesar Salad</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€9.95</span></li>
+<li class="dish"><span class="dish-name">Harvest Salad</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€9.95</span></li>
+<li class="dish"><span class="dish-name">Veggie Harvest Salad</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€9.95</span></li>
+<li class="dish"><span class="dish-name">Chicken Burrito</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€9.95</span></li>
+<li class="dish"><span class="dish-name">Veggie Burrito</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€9.95</span></li>
+</ul></section>
+<section class="menu-group" id="crisps" data-group aria-labelledby="crisps-h">
+<h2 id="crisps-h">Crisps<span class="menu-count">5 items</span></h2>
+<ul class="dishes" role="list">
+<li class="dish"><span class="dish-name">Keogh’s Shamrock &amp; Sour Cream</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€2.00</span></li>
+<li class="dish"><span class="dish-name">Keogh’s Sea Salt &amp; Vinegar</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€2.00</span></li>
+<li class="dish"><span class="dish-name">Keogh’s Cheese &amp; Onion</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€2.00</span></li>
+<li class="dish"><span class="dish-name">Keogh’s Roast Chicken</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€2.00</span></li>
+<li class="dish"><span class="dish-name">Keogh’s Sweet Chilli</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€2.00</span></li>
+</ul></section>
+<section class="menu-group" id="drinks" data-group aria-labelledby="drinks-h">
+<h2 id="drinks-h">Drinks<span class="menu-count">7 items</span></h2>
+<ul class="dishes" role="list">
+<li class="dish"><span class="dish-name">Can of Coca-Cola</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€2.00</span></li>
+<li class="dish"><span class="dish-name">Can of Coke Zero</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€2.00</span></li>
+<li class="dish"><span class="dish-name">Can of Diet Coke</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€2.00</span></li>
+<li class="dish"><span class="dish-name">Can of Fanta Orange</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€2.00</span></li>
+<li class="dish"><span class="dish-name">Can of Sprite</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€2.00</span></li>
+<li class="dish"><span class="dish-name">500ml Bottle of Sparkling Water</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€2.00</span></li>
+<li class="dish"><span class="dish-name">500ml Bottle of Still Water</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€2.00</span></li>
+</ul></section>
+<section class="menu-group" id="breakfast-catering" data-group aria-labelledby="breakfast-catering-h">
+<h2 id="breakfast-catering-h">Breakfast catering<span class="menu-count">5 items</span></h2><p class="menu-note">Monday to Friday, 7.30am–11.15am. Order at least a day ahead; payment in advance.</p>
+<ul class="dishes" role="list">
+<li class="dish"><span class="dish-name">Breakfast Roll Platter</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€75.00</span></li>
+<li class="dish"><span class="dish-name">Omelette Wraps or Boxes</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€110.00</span></li>
+<li class="dish"><span class="dish-name">Overnight Oats</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€5.00</span></li>
+<li class="dish"><span class="dish-name">Granola Pots</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€4.00</span></li>
+<li class="dish has-thumb"><img class="dish-thumb" src="assets/img/pastry-scones-720.webp" width="96" height="96" loading="lazy" alt="Pastry and scone platter"><span class="dish-name">Pastry &amp; Scone Platter</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€45.00</span></li>
+</ul></section>
+<section class="menu-group" id="lunch-catering" data-group aria-labelledby="lunch-catering-h">
+<h2 id="lunch-catering-h">Lunch catering<span class="menu-count">5 items</span></h2><p class="menu-note">Monday to Friday, 7.30am–2pm. Order at least a day ahead; payment in advance.</p>
+<ul class="dishes" role="list">
+<li class="dish has-thumb"><img class="dish-thumb" src="assets/img/sandwich-platter-720.webp" width="96" height="96" loading="lazy" alt="Sandwich and wrap platter"><span class="dish-name">Mellon’s Sandwich &amp; Wrap Platter</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€95.00</span></li>
+<li class="dish has-thumb"><img class="dish-thumb" src="assets/img/sweet-platter-640.webp" width="96" height="96" loading="lazy" alt="Chocolate bake with raspberries from the sweet platter"><span class="dish-name">Sweet Platter</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€45.00</span></li>
+<li class="dish"><span class="dish-name">16oz Side Salad</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€5.00</span></li>
+<li class="dish"><span class="dish-name">Keogh’s Crisps + Soft Drink</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€3.50</span></li>
+<li class="dish"><span class="dish-name">Kombucha + ‘Spun Out’ Oat Square</span><span class="dish-dots" aria-hidden="true"></span><span class="dish-price">€5.00</span></li>
+</ul></section>
+          <div class="menu-cta">
+            <p>Ready to order?</p>
+            <a class="button button-red" href="https://www.mellonsshop.ie/online-ordering" target="_blank" rel="noopener">Order Online<svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
+            <a class="text-link" href="https://www.mellonsshop.ie/_files/ugd/6b296e_6fb9cd21594a44d8b5d6f7fd1b765ff7.pdf" target="_blank" rel="noopener">Printable menu (PDF)<svg aria-hidden="true"><use href="#i-pdf"/></svg></a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wordmark" aria-hidden="true"><span>M</span><span>e</span><span>l</span><span>l</span><span>o</span><span>n</span><span>’</span><span>s</span></div>
+    <div class="frame footer-frame">
+      <a class="footer-logo" href="index.html" aria-label="Mellon’s Shop &amp; Deli, back to the top"><img src="assets/brand/mellons-logo-160.png" width="160" height="154" loading="lazy" alt="Mellon’s Shop"></a>
+      <nav class="footer-col" aria-label="Helpful links">
+        <p class="footer-h">Helpful links</p>
+        <a href="https://www.mellonsshop.ie/our-story" target="_blank" rel="noopener">Our Story</a>
+        <a href="https://www.mellonsshop.ie/online-ordering" target="_blank" rel="noopener">Order from the Deli</a>
+        <a href="https://www.mellonsshop.ie/category/irish-produce-shop" target="_blank" rel="noopener">Irish Produce Shop</a>
+        <a href="#menu-list">Menu</a>
+        <a href="https://www.mellonsshop.ie/product-page/physical-gift-card" target="_blank" rel="noopener">Vouchers</a>
+        <a href="https://www.mellonsshop.ie/_files/ugd/6b296e_6fb9cd21594a44d8b5d6f7fd1b765ff7.pdf" target="_blank" rel="noopener">Printable menu (PDF)</a>
+      </nav>
+      <div class="footer-col">
+        <p class="footer-h">Find us</p>
+        <p>56 South Lotts Road<br>Dublin 4, D04 K665</p>
+        <p><a href="tel:+35316680166">01 668 0166</a><br><a href="mailto:info@mellonsshop.ie">info@mellonsshop.ie</a></p>
+      </div>
+      <div class="footer-col">
+        <p class="footer-h">Opening hours</p>
+        <p>Mon – Thu 7am – 4pm<br>Fri 7am – 3.30pm<br>Sat &amp; Sun closed</p>
+      </div>
+      <div class="footer-cta">
+        <a class="button button-paper" href="https://www.mellonsshop.ie/online-ordering" target="_blank" rel="noopener">Order Online<svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
+        <div class="socials">
+          <a href="https://www.instagram.com/mellonsshopdeli/" target="_blank" rel="noopener" aria-label="Instagram"><svg aria-hidden="true"><use href="#i-instagram"/></svg></a>
+          <a href="https://www.facebook.com/MellonsShop/" target="_blank" rel="noopener" aria-label="Facebook"><svg aria-hidden="true"><use href="#i-facebook"/></svg></a>
+        </div>
+      </div>
+    </div>
+    <div class="frame footer-base">
+      <p>© <span data-year>2026</span> Mellon’s Shop &amp; Deli · Ringsend, Dublin 4</p>
+      <!-- TODO(mellons): link the Privacy Policy once the client confirms its page (the current footer shows the words without a link) -->
+      <button class="motion-toggle" id="motion-toggle" type="button" aria-pressed="false" hidden>Pause motion</button>
+    </div>
+  </footer>
+</body>
+</html>

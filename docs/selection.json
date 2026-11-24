@@ -1,0 +1,22 @@
+{
+  "model": 1,
+  "name": "The Deli Drop",
+  "hero": "BIG BITES. LOCAL ROOTS.",
+  "state": "confirmed by user",
+  "approved_board": "references/Modelo1-The-Deli-Drop-Aprovado.png",
+  "source_sha256": "ecde53bdd22aab37ab56f00177065a0185d1b7107adafee99f12fb453ec5985b",
+  "language": "en-IE",
+  "published": false,
+  "source_films": [
+    {
+      "file": "siteconcept.mov",
+      "role": "reference only: red food poster, chunky staggered text, sandwich hands, packshot; do not publish reference clip",
+      "duration_s": 15.666667
+    },
+    {
+      "file": "siteanimationidea.mov",
+      "role": "reference only: raw-to-finished film match cut crossing straight color boundary; no third-party logos",
+      "duration_s": 12.466667
+    }
+  ]
+}

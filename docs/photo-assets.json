@@ -1,0 +1,306 @@
+{
+  "classic-club": {
+    "kind": "official site photograph",
+    "source_url": "https://static.wixstatic.com/media/6b296e_d10f6495f9c54d87ac3cf3a4ddd62541~mv2.jpg",
+    "page": "https://www.mellonsshop.ie/online-ordering",
+    "item_or_asset": "Classic Club",
+    "master": "images/official/classic-club.jpg",
+    "master_sha256": "1168cb4e0949392366dbede16eb308c6e542fd3759fd9ec3411171e67a4ae760",
+    "source_dimensions": [
+      1530,
+      2040
+    ],
+    "file": "dist/assets/images/classic-club.webp",
+    "width": 1160,
+    "height": 1547,
+    "bytes": 200830,
+    "transformation": "Aspect-preserving WebP resize only, no generative changes. Hero subject masks are native SVG."
+  },
+  "italian-job": {
+    "kind": "official site photograph",
+    "source_url": "https://static.wixstatic.com/media/6b296e_5191a678a7b949de94a2772025804ce9~mv2.jpg",
+    "page": "https://www.mellonsshop.ie/online-ordering",
+    "item_or_asset": "Italian Job",
+    "master": "images/official/italian-job.jpg",
+    "master_sha256": "7a92ff44faee66017d537d40e20bd7294b70791e9eb0acd9b463b46991b87c22",
+    "source_dimensions": [
+      1530,
+      2040
+    ],
+    "file": "dist/assets/images/italian-job.webp",
+    "width": 980,
+    "height": 1307,
+    "bytes": 208950,
+    "transformation": "Aspect-preserving WebP resize only, no generative changes. Hero subject masks are native SVG."
+  },
+  "granola": {
+    "kind": "official site photograph",
+    "source_url": "https://static.wixstatic.com/media/6b296e_26f59ceade3c4aa9a345633ba04594e9~mv2.jpg",
+    "page": "https://www.mellonsshop.ie/online-ordering",
+    "item_or_asset": "Granola Protein Pot",
+    "master": "images/official/granola.jpg",
+    "master_sha256": "dfc94d9bda48dd12d45d320ccd8cc645b24ea66054fbf8264abfc68333eac85f",
+    "source_dimensions": [
+      1530,
+      2040
+    ],
+    "file": "dist/assets/images/granola.webp",
+    "width": 900,
+    "height": 1200,
+    "bytes": 165256,
+    "transformation": "Aspect-preserving WebP resize only, no generative changes. Hero subject masks are native SVG."
+  },
+  "greek-salad": {
+    "kind": "official site photograph",
+    "source_url": "https://static.wixstatic.com/media/6b296e_7cb9f7fbc8ca44c5ae3cb84026af93a1~mv2.jpg",
+    "page": "https://www.mellonsshop.ie/online-ordering",
+    "item_or_asset": "Greek Salad",
+    "master": "images/official/greek-salad.jpg",
+    "master_sha256": "d846a935c3be10a5e46cfd78536c43ea55255958a1c1af9d2ce438ea8cfe4c55",
+    "source_dimensions": [
+      1530,
+      2040
+    ],
+    "file": "dist/assets/images/greek-salad.webp",
+    "width": 930,
+    "height": 1240,
+    "bytes": 148378,
+    "transformation": "Aspect-preserving WebP resize only, no generative changes. Hero subject masks are native SVG."
+  },
+  "caesar-salad": {
+    "kind": "official site photograph",
+    "source_url": "https://static.wixstatic.com/media/6b296e_f539a9f5478e4f47a1883a5bd23459dd~mv2.jpg",
+    "page": "https://www.mellonsshop.ie/online-ordering",
+    "item_or_asset": "Caesar Salad",
+    "master": "images/official/caesar-salad.jpg",
+    "master_sha256": "e56e57688c4a8f3659cfc1051b7c03eff8fefd47f2ed4a7dd72fcd883ccf11f3",
+    "source_dimensions": [
+      2040,
+      1530
+    ],
+    "file": "dist/assets/images/caesar-salad.webp",
+    "width": 1060,
+    "height": 795,
+    "bytes": 115172,
+    "transformation": "Aspect-preserving WebP resize only, no generative changes. Hero subject masks are native SVG."
+  },
+  "overnight-oats": {
+    "kind": "official site photograph",
+    "source_url": "https://static.wixstatic.com/media/6b296e_1e302f8ecca3451191138334984183ca~mv2.jpg",
+    "page": "https://www.mellonsshop.ie/online-ordering",
+    "item_or_asset": "Over-Night Protein Oats",
+    "master": "images/official/overnight-oats.jpg",
+    "master_sha256": "9cb911125191f99dc3743d454b476a10d9198e6726c5bd3fe39fd3523d1773c5",
+    "source_dimensions": [
+      1536,
+      2048
+    ],
+    "file": "dist/assets/images/overnight-oats.webp",
+    "width": 900,
+    "height": 1200,
+    "bytes": 118462,
+    "transformation": "Aspect-preserving WebP resize only, no generative changes. Hero subject masks are native SVG."
+  },
+  "pastry-scones": {
+    "kind": "official site photograph",
+    "source_url": "https://static.wixstatic.com/media/6b296e_ddff41a26a12489c80edfe741b5684d3~mv2.jpg",
+    "page": "https://www.mellonsshop.ie/online-ordering",
+    "item_or_asset": "Pastry & Scone Platter (Breakfast Catering)",
+    "master": "images/official/pastry-scones.jpg",
+    "master_sha256": "ea965fdddd106414159b1e637e7805082c84c2659ecc079a49efe2505e88660c",
+    "source_dimensions": [
+      2040,
+      1530
+    ],
+    "file": "dist/assets/images/pastry-scones.webp",
+    "width": 1230,
+    "height": 923,
+    "bytes": 197440,
+    "transformation": "Aspect-preserving WebP resize only, no generative changes. Hero subject masks are native SVG."
+  },
+  "meal-deal": {
+    "kind": "official site photograph",
+    "source_url": "https://static.wixstatic.com/media/6b296e_4c4e55e44df44751b7e5914963f54f7d~mv2.jpeg",
+    "page": "https://www.mellonsshop.ie/online-ordering",
+    "item_or_asset": "House Sandwich + Can of Coca-Cola + Keogh’s Crisps",
+    "master": "images/official/meal-deal.jpg",
+    "master_sha256": "6a3357cb38eec8f255fef7f82287af6dab8c78be4a71a8fbaa188ebf48e102e7",
+    "source_dimensions": [
+      1200,
+      1600
+    ],
+    "file": "dist/assets/images/meal-deal.webp",
+    "width": 1120,
+    "height": 1493,
+    "bytes": 249830,
+    "transformation": "Aspect-preserving WebP resize only, no generative changes. Hero subject masks are native SVG."
+  },
+  "sandwich-platter": {
+    "kind": "official site photograph",
+    "source_url": "https://static.wixstatic.com/media/6b296e_07e073608e6f49189be0aab6f0c3bf9e~mv2.jpg",
+    "page": "https://www.mellonsshop.ie/online-ordering",
+    "item_or_asset": "Mellon’s Sandwich & Wrap Platter (Lunch Catering)",
+    "master": "images/official/sandwich-platter.jpg",
+    "master_sha256": "525ae459aaa4aa178b5a4d25b3ef7a411615723cdc18e67c8950cd6fcf43e335",
+    "source_dimensions": [
+      2040,
+      1530
+    ],
+    "file": "dist/assets/images/sandwich-platter.webp",
+    "width": 1450,
+    "height": 1088,
+    "bytes": 263638,
+    "transformation": "Aspect-preserving WebP resize only, no generative changes. Hero subject masks are native SVG."
+  },
+  "sweet-platter": {
+    "kind": "official site photograph",
+    "source_url": "https://static.wixstatic.com/media/6b296e_d86a3923d66841e595abb55562b80f43~mv2.jpg",
+    "page": "https://www.mellonsshop.ie/online-ordering",
+    "item_or_asset": "Sweet Platter (Lunch Catering)",
+    "master": "images/official/sweet-platter.jpg",
+    "master_sha256": "3910784b900e471cde4e25e1405a87ad0d690fefb0d8fe94f46ced3b7a1b44f3",
+    "source_dimensions": [
+      2040,
+      1530
+    ],
+    "file": "dist/assets/images/sweet-platter.webp",
+    "width": 1090,
+    "height": 818,
+    "bytes": 147306,
+    "transformation": "Aspect-preserving WebP resize only, no generative changes. Hero subject masks are native SVG."
+  },
+  "salad-counter": {
+    "kind": "official site photograph",
+    "source_url": "https://static.wixstatic.com/media/6b296e_10220ccada2041ada5d2d663ece2a294~mv2.jpg",
+    "page": "https://www.mellonsshop.ie/",
+    "item_or_asset": "Snapinst.app_480980529_18321804043165996_6917408250776320868_n_1080.jpg",
+    "master": "images/official/salad-counter.webp",
+    "master_sha256": "53c380e4bae57f0850f5e42edadacb4c30220da4d08bf8dd3ca442b9be85f987",
+    "source_dimensions": [
+      1080,
+      1080
+    ],
+    "file": "dist/assets/images/salad-counter.webp",
+    "width": 1080,
+    "height": 1080,
+    "bytes": 226792,
+    "transformation": "Aspect-preserving WebP resize only, no generative changes. Hero subject masks are native SVG."
+  },
+  "shopfront": {
+    "kind": "official site photograph",
+    "source_url": "https://static.wixstatic.com/media/6b296e_805c5af641b74b12809f2bb3a7925227~mv2.jpg",
+    "page": "https://www.mellonsshop.ie/",
+    "item_or_asset": "1000047759.jpg",
+    "master": "images/official/shopfront.jpg",
+    "master_sha256": "40983b3352d1e274d7b1c80482154a1acd7ed780aa9077de323add314b83f6b1",
+    "source_dimensions": [
+      4344,
+      5792
+    ],
+    "file": "dist/assets/images/shopfront.webp",
+    "width": 1530,
+    "height": 2040,
+    "bytes": 950176,
+    "transformation": "Aspect-preserving WebP resize only, no generative changes. Hero subject masks are native SVG."
+  },
+  "mellons-print": {
+    "kind": "official site photograph",
+    "source_url": "https://static.wixstatic.com/media/6b296e_ab86fa80a2a64a93b64627d9ecf1fb45~mv2.jpg",
+    "page": "https://www.mellonsshop.ie/",
+    "item_or_asset": "Mellons 10 (1).jpg",
+    "master": "images/official/mellons-print.jpg",
+    "master_sha256": "7a2cbae13c6e844eade7c78486cb77d417727c047f89f5189f13c9edcb20bcf7",
+    "source_dimensions": [
+      2482,
+      3507
+    ],
+    "file": "dist/assets/images/mellons-print.webp",
+    "width": 850,
+    "height": 1201,
+    "bytes": 56102,
+    "transformation": "Aspect-preserving WebP resize only, no generative changes. Hero subject masks are native SVG."
+  },
+  "story-1": {
+    "kind": "official site photograph",
+    "source_url": "https://static.wixstatic.com/media/6b296e_8bf1e9cdb6fe4c8284a138fe8f750664~mv2.jpg",
+    "page": "https://www.mellonsshop.ie/our-story",
+    "item_or_asset": "Snapinst.app_445634129_1596472464477193_367631573924704130_n_1080.jpg",
+    "master": "images/official/story-1.jpg",
+    "master_sha256": "4656db016dd7384d4e56be266ec792ce5358b737de9eff8a9ef16321ec35b446",
+    "source_dimensions": [
+      1080,
+      1080
+    ],
+    "file": "dist/assets/images/story-1.webp",
+    "width": 950,
+    "height": 950,
+    "bytes": 136698,
+    "transformation": "Aspect-preserving WebP resize only, no generative changes. Hero subject masks are native SVG."
+  },
+  "story-2": {
+    "kind": "official site photograph",
+    "source_url": "https://static.wixstatic.com/media/6b296e_d26ff429ce224b2295d8035f5360fbd0~mv2.jpg",
+    "page": "https://www.mellonsshop.ie/our-story",
+    "item_or_asset": "442424059_848660967284015_1255305033790529861_n.jpg",
+    "master": "images/official/story-2.jpg",
+    "master_sha256": "b74140d9c9afdd4af8afa3257dc5e1f1f2e3125f365cdda2e8d8bf0f43f183b4",
+    "source_dimensions": [
+      1440,
+      1440
+    ],
+    "file": "dist/assets/images/story-2.webp",
+    "width": 1120,
+    "height": 1120,
+    "bytes": 227928,
+    "transformation": "Aspect-preserving WebP resize only, no generative changes. Hero subject masks are native SVG."
+  },
+  "gift-card": {
+    "kind": "official site photograph",
+    "source_url": "https://static.wixstatic.com/media/6b296e_50f0476f425145a390b1e66ea696d841~mv2.jpeg",
+    "page": "https://www.mellonsshop.ie/product-page/physical-gift-card",
+    "item_or_asset": "Physical Gift Card",
+    "master": "images/official/gift-card.jpg",
+    "master_sha256": "ed082ed4b84ceec4f122150b6cd5e915697ffe8a314bafba4efdf29617ec9581",
+    "source_dimensions": [
+      1536,
+      2048
+    ],
+    "file": "dist/assets/images/gift-card.webp",
+    "width": 930,
+    "height": 1240,
+    "bytes": 236180,
+    "transformation": "Aspect-preserving WebP resize only, no generative changes. Hero subject masks are native SVG."
+  },
+  "held-wrap": {
+    "kind": "user-provided reference",
+    "source_upload": "Screenshot 2026-11-24 at 10.19.27.webp",
+    "item_or_asset": "Real handheld wrap; exact item not identified",
+    "master": "images/provided/held-wrap.webp",
+    "master_sha256": "51c6db97cd3d855474305c02725b28c63338aa4b1f20aadc339e49c010d6140d",
+    "source_dimensions": [
+      772,
+      1008
+    ],
+    "file": "dist/assets/images/held-wrap.webp",
+    "width": 772,
+    "height": 1008,
+    "bytes": 88212,
+    "transformation": "Aspect-preserving WebP resize only, no generative changes. Hero subject masks are native SVG."
+  },
+  "deli-spread": {
+    "kind": "user-provided reference",
+    "source_upload": "Screenshot 2026-11-24 at 10.19.36.webp",
+    "item_or_asset": "Real overhead spread; tomatoes used for match cut",
+    "master": "images/provided/deli-spread.webp",
+    "master_sha256": "624e4b48dd35f19515d6d480504c68fb13196aa662d7d585a4c45e6ec94c8c76",
+    "source_dimensions": [
+      1356,
+      1020
+    ],
+    "file": "dist/assets/images/deli-spread.webp",
+    "width": 1356,
+    "height": 1020,
+    "bytes": 269826,
+    "transformation": "Aspect-preserving WebP resize only, no generative changes. Hero subject masks are native SVG."
+  }
+}

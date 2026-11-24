@@ -1,0 +1,16 @@
+{
+  "name": "mellons-shop-deli-website",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Mellon’s Shop & Deli — The Deli Drop (Ringsend, Dublin 4)",
+  "scripts": {
+    "dev": "npx --yes serve@14 site -l 4472",
+    "assets": "python3 scripts/prepare-images.py && python3 scripts/build-menu.py",
+    "menu": "python3 scripts/build-menu.py",
+    "qa": "node scripts/qa.mjs",
+    "shots": "node scripts/shots.mjs",
+    "og": "node scripts/og.mjs",
+    "readme": "node scripts/readme-assets.mjs && python3 scripts/readme-compose.py"
+  },
+  "devDependencies": { "playwright-core": "^1.50.0" }
+}

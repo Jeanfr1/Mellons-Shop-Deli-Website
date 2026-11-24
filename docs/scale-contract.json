@@ -1,0 +1,13 @@
+{
+  "base_root_px": 16,
+  "board_file": "references/Modelo1-The-Deli-Drop-Aprovado.png",
+  "board_intrinsic_px": [819, 1920],
+  "virtual_canvas_px": 1024,
+  "invariant": "Centered foreground at its designed scale beyond 1024px. Extend section backgrounds only. Never use viewport width divided by the intrinsic board width as a global multiplier.",
+  "desktop": {"min_exclusive_px": 864, "side_gutter_px": 40, "title_px": 92, "subject_px": 550},
+  "tablet": {"range_px": [673, 864], "side_gutter_px": 28, "title_px": 72.8, "subject_px": 436},
+  "mobile": {"max_px": 672, "side_gutter_px": 19.2, "title_css": "clamp(3.15rem,13vw,4.35rem)", "subject_css": "min(100%,27.5rem)", "layout": "Reflow the headline, CTA and food art in their own visual regions."},
+  "hero_image": "Aspect-preserving SVG viewBox and hand-traced clip paths; no viewport-cover element.",
+  "macro_image": {"asset": "meal-deal.webp", "source_crop_px": [0, 548, 1120, 682], "layout": "Natural width inside a paper window; no cover."},
+  "review_widths_px": [375, 768, 1024, 1440, 1920]
+}

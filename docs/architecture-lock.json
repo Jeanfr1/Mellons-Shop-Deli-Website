@@ -1,0 +1,18 @@
+{
+  "approved_model": "01 — The Deli Drop",
+  "hero_copy": "Big bites. Local roots.",
+  "document": "dist/index.html",
+  "hero_photo": "Classic Club photograph from the official menu",
+  "scene_order": [
+    {"id": "hero", "name": "Big Bites. Local Roots.", "layout": "red poster, staggered headline, isolated food in layers"},
+    {"id": "menu", "name": "From the deli counter", "layout": "angled greaseproof title, plate spread, coffee note"},
+    {"id": "grab-and-go", "name": "Grab & Go", "layout": "red promo band, lettering and an oblique pack shot"},
+    {"id": "catering", "name": "Made for sharing", "layout": "full tray, torn paper panel, pastry close-up"},
+    {"id": "shop", "name": "A piece of Mellon’s", "layout": "print and voucher windows across one paper counter"},
+    {"id": "our-story", "name": "Ringsend since 1905", "layout": "real storefront and red story/address panel"}
+  ],
+  "secondary_document": "dist/menu.html",
+  "order_url": "https://www.mellonsshop.ie/online-ordering",
+  "source_content_review": "2026-11-24",
+  "published": false
+}

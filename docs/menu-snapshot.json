@@ -1,0 +1,291 @@
+{
+  "source": "https://www.mellonsshop.ie/online-ordering",
+  "date": "2026-11-24",
+  "policy": "Snapshot of displayed item names and prices. Current availability, options, allergens, prices and pickup are confirmed on the official ordering page. Unavailability flags are time-dependent and not copied.",
+  "groups": [
+    {
+      "id": "grab-and-go",
+      "title": "Grab & Go Meal Deal",
+      "source_category": "Grab & Go Meal Deal",
+      "items": [
+        {
+          "name": "House Sandwich + Can of Coca-Cola + Keogh’s Crisps",
+          "price_eur": "12.00"
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "title": "Breakfast",
+      "source_category": "Breakfast Items",
+      "items": [
+        {
+          "name": "Jumbo Breakfast Roll",
+          "price_eur": "9.00"
+        },
+        {
+          "name": "Full Irish Breakfast Roll",
+          "price_eur": "7.00"
+        },
+        {
+          "name": "B.L.T.A",
+          "price_eur": "9.00"
+        },
+        {
+          "name": "B.L.T.",
+          "price_eur": "6.50"
+        },
+        {
+          "name": "Sausage Roll",
+          "price_eur": "5.00"
+        },
+        {
+          "name": "Bacon & Eggs",
+          "price_eur": "7.00"
+        },
+        {
+          "name": "Brunch Box",
+          "price_eur": "10.00"
+        },
+        {
+          "name": "Havana Omelette",
+          "price_eur": "9.95"
+        },
+        {
+          "name": "Burrito Omelette",
+          "price_eur": "9.95"
+        },
+        {
+          "name": "Irish Omelette",
+          "price_eur": "9.95"
+        },
+        {
+          "name": "Spanish Omelette",
+          "price_eur": "9.95"
+        },
+        {
+          "name": "Sweet Omelette (No Flour Pancakes)",
+          "price_eur": "9.95"
+        }
+      ]
+    },
+    {
+      "id": "all-day",
+      "title": "All-day favourites",
+      "source_category": "All-Day Items",
+      "items": [
+        {
+          "name": "Granola Protein Pot",
+          "price_eur": "3.95"
+        },
+        {
+          "name": "Over-Night Protein Oats",
+          "price_eur": "4.95"
+        }
+      ]
+    },
+    {
+      "id": "lunch",
+      "title": "Lunch",
+      "source_category": "Lunch Items",
+      "items": [
+        {
+          "name": "Italian Job",
+          "price_eur": "11.45"
+        },
+        {
+          "name": "Classic Club",
+          "price_eur": "10.95"
+        },
+        {
+          "name": "Spicy Club",
+          "price_eur": "10.95"
+        },
+        {
+          "name": "Naked Club",
+          "price_eur": "8.95"
+        },
+        {
+          "name": "Brazil",
+          "price_eur": "9.95"
+        },
+        {
+          "name": "Mississippi",
+          "price_eur": "8.95"
+        },
+        {
+          "name": "Spanish Armada",
+          "price_eur": "8.95"
+        },
+        {
+          "name": "Lapland",
+          "price_eur": "8.95"
+        },
+        {
+          "name": "Tuscany",
+          "price_eur": "8.95"
+        },
+        {
+          "name": "New York",
+          "price_eur": "8.95"
+        },
+        {
+          "name": "Enniskerry",
+          "price_eur": "8.95"
+        },
+        {
+          "name": "Howth",
+          "price_eur": "8.95"
+        },
+        {
+          "name": "Ploughman (Vegetarian Option)",
+          "price_eur": "7.95"
+        },
+        {
+          "name": "Mediterranean (Vegetarian Option)",
+          "price_eur": "7.95"
+        },
+        {
+          "name": "Greek Salad",
+          "price_eur": "9.95"
+        },
+        {
+          "name": "Caesar Salad",
+          "price_eur": "9.95"
+        },
+        {
+          "name": "Harvest Salad",
+          "price_eur": "9.95"
+        },
+        {
+          "name": "Veggie Harvest Salad",
+          "price_eur": "9.95"
+        },
+        {
+          "name": "Chicken Burrito",
+          "price_eur": "9.95"
+        },
+        {
+          "name": "Veggie Burrito",
+          "price_eur": "9.95"
+        }
+      ]
+    },
+    {
+      "id": "crisps",
+      "title": "Crisps",
+      "source_category": "Crisps",
+      "items": [
+        {
+          "name": "Keogh’s Shamrock & Sour Cream",
+          "price_eur": "2.00"
+        },
+        {
+          "name": "Keogh’s Sea Salt & Vinegar",
+          "price_eur": "2.00"
+        },
+        {
+          "name": "Keogh’s Cheese & Onion",
+          "price_eur": "2.00"
+        },
+        {
+          "name": "Keogh’s Roast Chicken",
+          "price_eur": "2.00"
+        },
+        {
+          "name": "Keogh’s Sweet Chilli",
+          "price_eur": "2.00"
+        }
+      ]
+    },
+    {
+      "id": "drinks",
+      "title": "Drinks",
+      "source_category": "Drinks",
+      "items": [
+        {
+          "name": "Can of Coca-Cola",
+          "price_eur": "2.00"
+        },
+        {
+          "name": "Can of Coke Zero",
+          "price_eur": "2.00"
+        },
+        {
+          "name": "Can of Diet Coke",
+          "price_eur": "2.00"
+        },
+        {
+          "name": "Can of Fanta Orange",
+          "price_eur": "2.00"
+        },
+        {
+          "name": "Can of Sprite",
+          "price_eur": "2.00"
+        },
+        {
+          "name": "500ml Bottle of Sparkling Water",
+          "price_eur": "2.00"
+        },
+        {
+          "name": "500ml Bottle of Still Water",
+          "price_eur": "2.00"
+        }
+      ]
+    },
+    {
+      "id": "breakfast-catering",
+      "title": "Breakfast catering",
+      "source_category": "Breakfast Catering Options",
+      "items": [
+        {
+          "name": "Breakfast Roll Platter (Breakfast Catering)",
+          "price_eur": "75.00"
+        },
+        {
+          "name": "Omelette Wraps or Boxes (Breakfast Catering)",
+          "price_eur": "110.00"
+        },
+        {
+          "name": "Overnight Oats (Breakfast Catering)",
+          "price_eur": "5.00"
+        },
+        {
+          "name": "Granola Pots (Breakfast Catering)",
+          "price_eur": "4.00"
+        },
+        {
+          "name": "Pastry & Scone Platter (Breakfast Catering)",
+          "price_eur": "45.00"
+        }
+      ]
+    },
+    {
+      "id": "lunch-catering",
+      "title": "Lunch catering",
+      "source_category": "Lunch Catering Options",
+      "items": [
+        {
+          "name": "Mellon’s Sandwich & Wrap Platter (Lunch Catering)",
+          "price_eur": "95.00"
+        },
+        {
+          "name": "Sweet Platter (Lunch Catering)",
+          "price_eur": "45.00"
+        },
+        {
+          "name": "16oz Side Salad (Lunch Catering)",
+          "price_eur": "5.00"
+        },
+        {
+          "name": "Keogh’s Crisps + Soft Drink (Lunch Catering)",
+          "price_eur": "3.50"
+        },
+        {
+          "name": "Kombucha + ‘Spun Out’ Oat Square (Lunch Catering)",
+          "price_eur": "5.00"
+        }
+      ]
+    }
+  ]
+}

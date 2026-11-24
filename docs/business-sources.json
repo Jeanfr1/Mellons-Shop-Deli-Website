@@ -1,0 +1,81 @@
+{
+  "reviewed_on": "2026-11-24",
+  "brand": {
+    "logo_exact_copy": "brand/Mellons-Logo-Fundo-Branco.png",
+    "logo_source": "https://static.wixstatic.com/media/6b296e_3cdc07a7463043a497d966fe7a3c3cbd~mv2.png",
+    "logo_png": {
+      "width": 675,
+      "height": 649,
+      "background": "#FFFFFF",
+      "opaque": true,
+      "sha256": "2faa1cb8209b4962070cd3fe5134cbef87ae304e172b58036ef22bddbece9f70"
+    },
+    "palette": {
+      "red": "#F31820",
+      "contrast_red": "#B30D1B",
+      "white": "#FFFFFF",
+      "paper": "#FBF7F1",
+      "ink": "#251916"
+    }
+  },
+  "business": {
+    "name": "Mellon's Shop & Deli",
+    "city": "Ringsend, Dublin 4",
+    "address": "56 South Lotts Road, Dublin 4, D04 K665",
+    "phone_display": "01 668 0166",
+    "phone_link": "tel:+35316680166",
+    "email": "info@mellonsshop.ie",
+    "story_since": 1905,
+    "family_generations": 4,
+    "site": "https://www.mellonsshop.ie/",
+    "order_url": "https://www.mellonsshop.ie/online-ordering",
+    "story_url": "https://www.mellonsshop.ie/our-story",
+    "produce_url": "https://www.mellonsshop.ie/category/irish-produce-shop",
+    "shop_url": "https://www.mellonsshop.ie/category/all-products",
+    "gift_card_url": "https://www.mellonsshop.ie/product-page/physical-gift-card",
+    "print_menu_url": "https://www.mellonsshop.ie/_files/ugd/6b296e_6fb9cd21594a44d8b5d6f7fd1b765ff7.pdf",
+    "instagram": "https://www.instagram.com/mellonsshopdeli/",
+    "facebook": "https://www.facebook.com/MellonsShop/",
+    "munchd_ios": "https://apps.apple.com/us/app/munchd-online-food-ordering/id6504992687",
+    "munchd_android": "https://play.google.com/store/apps/details?id=com.davydovconsulting.munchd",
+    "opening_hours": {
+      "monday_thursday": "07:00–16:00",
+      "friday": "07:00–15:30",
+      "weekend": "closed"
+    },
+    "order_rules": {
+      "source": "live order page; recheck before publication",
+      "breakfast_deadline": "11:15",
+      "lunch": "min 45 minutes; 5+ sandwiches up to 2 hours",
+      "catering": "at least a day ahead; payment in advance",
+      "breakfast_catering": "Monday–Friday 7.30am–11.15am",
+      "lunch_catering": "Monday–Friday 7.30am–2pm"
+    },
+    "menu_categories": {
+      "Grab & Go Meal Deal": 1,
+      "Breakfast Items": 12,
+      "All-Day Items": 2,
+      "Lunch Items": 20,
+      "Crisps": 5,
+      "Drinks": 7,
+      "Breakfast Catering Options": 5,
+      "Lunch Catering Options": 5
+    },
+    "menu_items_count": 57,
+    "produce_count": 18,
+    "all_products_count": 20,
+    "deal": "House Sandwich + Coca-Cola can + Keogh’s crisps; online price at check €12; PDF describes a separate €10 offer; never merge",
+    "privacy": "Current footer has text Privacy Policy without a verified link. Preserve only a verified actual destination or request content before publication.",
+    "contact_form": "Existing Wix public homepage contact form with First Name, Last Name, Email, Phone and Message. Link to original or connect real sending only if authorized. No simulated success."
+  },
+  "official_contact_form": "https://www.mellonsshop.ie/#comp-mq86y57w",
+  "sources": [
+    "https://www.mellonsshop.ie/",
+    "https://www.mellonsshop.ie/online-ordering",
+    "https://www.mellonsshop.ie/our-story",
+    "https://www.mellonsshop.ie/category/irish-produce-shop",
+    "https://www.mellonsshop.ie/category/all-products",
+    "https://www.mellonsshop.ie/product-page/physical-gift-card"
+  ],
+  "public_photo_in_originals": true
+}
